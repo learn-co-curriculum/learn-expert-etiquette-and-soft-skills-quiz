@@ -24,4 +24,11 @@
 (X) are great because it gets them one step closer to the answer
 ( ) are a distraction from the learning process
 
+?: When a student is frustrated you should: (check all that apply)
+
+[X] reassure them that frustration is part of the learning process
+[ ] tell the student not to get frustrated
+[X] encourage them to push through the frustration until they find a solution
+[ ] all of the above
+
 ???
